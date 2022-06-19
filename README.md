@@ -1,4 +1,4 @@
-![alt text](https://github.com/aaronchan73/racer/blob/main/racer/assets/racerTitle1.PNG)
+![alt text](https://github.com/aaronchan73/racer/blob/main/assets/racerTitle1.PNG)
 
 A racing car game made using Phaser.js!
 
